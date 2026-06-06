@@ -1,5 +1,5 @@
 # LABYRINTH
-## C based terminal game.
+### C based terminal game.
 
 This program accepts two commandline arguments, one of them being a txt file of a game map, to configure the game.
 Program reads file, stores ina 2D array and prints map to terminal, with player, enemy and treasure. 
