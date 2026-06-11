@@ -1,6 +1,4 @@
-/*Layla dawood 2310064
-UCP ASSIGNMENT
-main file*/
+
 
 #include <stdio.h>
 #include "game.h"
